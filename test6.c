@@ -2,8 +2,8 @@
 int a, b, c;
 int main()
 {
-    a = 4;
-    b = 9;
+    a = 23;
+    b = 2552;
     c = a + b;
     printf("%d", c);
 }
